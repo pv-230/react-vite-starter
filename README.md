@@ -1,4 +1,4 @@
-# vite-starter
+# react-vite-starter
 
 Quickly start React projects with Vite
 
