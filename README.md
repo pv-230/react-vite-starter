@@ -4,7 +4,7 @@ Quickly start React projects with Vite
 
 ## Start up instructions
 
-1. `git clone && code ./vite-starter && exit`
+1. `git clone`
 2. `npm i`
 3. `npm run dev`
 
