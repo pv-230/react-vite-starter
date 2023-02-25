@@ -7,7 +7,7 @@ to my preference. Intended to be used with the VSCode extensions `ESLint`,
 
 ## Set up instructions
 
-1. Click the `Use new template` button on the GitHub repository page.
+1. Click the `Use this template` button on the GitHub repository page.
 2. Create a new repository after setting up the details.
 3. Run `git clone <REPOSITORY_URL>` on your machine.
 4. Change your current directory to the cloned repository directory.
