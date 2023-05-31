@@ -1,4 +1,7 @@
+import 'normalize.css';
 import styled from 'styled-components';
+
+import GlobalStyle from '../common/global-styles';
 
 const StyledApp = styled.div`
   display: flex;
@@ -8,7 +11,12 @@ const StyledApp = styled.div`
 `;
 
 function App() {
-  return <StyledApp>Hello World</StyledApp>;
+  return (
+    <>
+      <GlobalStyle />
+      <StyledApp>Hello World</StyledApp>
+    </>
+  );
 }
 
 export default App;

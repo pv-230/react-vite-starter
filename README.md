@@ -19,11 +19,6 @@ to my preference. Intended to be used with the VSCode extensions `ESLint`,
 ## Commands that were used to set up the repo
 
 `npm create vite@latest . -- --template react`  
-`npm i prop-types styled-components`  
+`npm i prop-types styled-components normalize.css`  
 `npm i -D eslint eslint-config-prettier`  
 `npm init @eslint/config`
-
-## Optional commands
-
-`npm i react-router-dom`  
-`npm i -D vitest @testing-library/react @testing-library/user-event`
